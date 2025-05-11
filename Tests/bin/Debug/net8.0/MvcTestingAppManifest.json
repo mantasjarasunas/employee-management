@@ -1,7 +1,0 @@
-{
-  "Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mantasjarasunas\/Repositories\/Employee\/EmployeeApi\/Api",
-  "Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mantasjarasunas\/Repositories\/Employee\/EmployeeApi\/Business",
-  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mantasjarasunas\/Repositories\/Employee\/EmployeeApi\/Domain",
-  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mantasjarasunas\/Repositories\/Employee\/EmployeeApi\/Infrastructure",
-  "Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/mantasjarasunas\/Repositories\/Employee\/EmployeeApi\/Persistence"
-}

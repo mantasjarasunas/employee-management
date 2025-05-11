@@ -1,0 +1,15 @@
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CopyComplete
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/mantasjarasunas/Repositories/Employee/EmployeeApi/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

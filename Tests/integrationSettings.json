@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "PostgresConnection": "Host=localhost;Port=5432;Database=employee_management_test;Username=postgres;Password=admin"
+  },
+  "Database": {
+    "Name": "employee_management_test"
+  }
+}
